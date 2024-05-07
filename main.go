@@ -14,6 +14,6 @@ func main() {
 	os := runtime.GOOS
 
 	if os == "windows" {
-		fmt.Println("Es un equipo Windows")
+		fmt.Println("Es un equipo Windows, confirmado")
 	}
 }
